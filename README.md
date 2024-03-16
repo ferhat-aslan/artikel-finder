@@ -11,6 +11,6 @@ a German artikel finder app.
 - Java
 - Spring Boot
 - Git VSC
-- Loomback
+- Lombok
 - Maven
 - Docker
